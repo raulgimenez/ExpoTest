@@ -36,5 +36,6 @@ const styles = StyleSheet.create({
       , resizeMode: 'contain'
       , marginTop: 3
       , marginLeft: -10
+      , alignItems: 'center'
     }
 });
